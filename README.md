@@ -1,10 +1,5 @@
 # webchat
 
-> 基于浏览器端的web实时聊天工具，后台用的java
-## Document
-[中文](https://github.com/weiyuc/webchat/blob/master/README.md)
-
-[English](https://github.com/weiyuc/webchat/blob/master/README_EN.md)
 
 ## 功能列表
 1. 登录注册
